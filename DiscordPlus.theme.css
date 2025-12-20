@@ -32,7 +32,7 @@
   * NOTE: "Amount" is an offset, where 1.0 is normal, and 0.5 is reduced by 50%.
   * An example: If an element has a base lightness of 0.45,
   * setting --dplus-foreground-color-lightness-amount to 0.8
-  * results in the element getting a final lightness of 0.25.
+  * results in the element getting a final lightneess of 0.25.
   * While your offsets can be any number, the final values will always be between 0 and 1. */
   
   --dplus-background-color-hue: 320;
